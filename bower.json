@@ -1,0 +1,20 @@
+{
+  "name": "raterihehe",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Rateri"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/huan2001/Nodejs-starter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
